@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AzureKonfHub'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ABF9BA6B188D462E9EFB3E32883FE4F7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8000D915DDA84DAF962CDCDE14B6B4AE }}
